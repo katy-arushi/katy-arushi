@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🎓 I'm a student in the Lighthouse Labs Web Development Bootcamp
+- 🌱 I’m currently learning React! ⚛
+- ✨ I really enjoy working on the Front End, playing around with CSS, and using SASS! 
+- 📫 How to reach me: katy.arushi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)
+- 😄 Pronouns: she/her
+
+
 <!--
 **katy-arushi/katy-arushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
