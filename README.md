@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm a student in the Lighthouse Labs Web Development Bootcamp
-- 🌱 I’m currently learning React! ⚛ and Ruby on Rails!
+- 🌱 I’m currently learning React! ⚛ and Ruby on Rails! 💎
 - ✨ I really enjoy working on the Front End, learning more about React, playing around with CSS, and using SASS! 
 - 📫 How to reach me: katy.arushi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)
 - 😄 Pronouns: she/her
