@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm a student in the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/)
+- 🎓 I'm a student in the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
 - 🌱 I’m currently learning Ruby on Rails! 💎
 - ✨ I really enjoy working on the Front End, learning more about React, playing around with CSS, and using SASS!
 - 🤔 Tools that I'd like to explore: TypeScript, Redux
