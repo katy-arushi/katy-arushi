@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🎓 I recently graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
-- 🌱 I’m currently learning Ruby on Rails! 💎
+- 🌱 I’m currently learning more about React, TypeScript and working on personal projects!
 - ✨ I really enjoy Front End development, learning more about React, playing around with CSS, and using SASS!
-- 🤔 Tools that I'd like to explore: TypeScript, Redux
+- 🤔 Tools that I'd like to explore: TypeScript, Redux, TailwindCSS
 - 📫 How to reach me: katy.arushi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)
 - 😄 Pronouns: she/her
 
