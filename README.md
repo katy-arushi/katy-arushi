@@ -14,9 +14,8 @@
 
 ## GitHub Stats
 
-![Arushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy-arushi&hide=contribs,prs)
+[![Arushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy-arushi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katy-arushi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **katy-arushi/katy-arushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
