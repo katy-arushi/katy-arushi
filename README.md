@@ -2,7 +2,7 @@
 
 - 🇨🇦 I'm a Full Stack Software Developer from Toronto, Canada
 - 🎓 I recently graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
-- 🌱 I’m currently learning more about React, TypeScript, CI/CD pipelines, TDD, and working on personal projects!
+- 🌱 I’m currently learning more about React, TypeScript, and working on personal projects!
 - ✨ I really enjoy Front End development and focusing on user design!
 - 🤔 Tools that I'd like to explore: TypeScript, Redux, NextJS, TailwindCSS and eventually try out Angular or Vue.
 - 📫 How to reach me: [email me](mailto:katy.arushi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)!
