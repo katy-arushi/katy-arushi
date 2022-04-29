@@ -8,6 +8,8 @@
 - 📫 How to reach me: [email me](mailto:katy.arushi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)!
 - Pronouns: she/her
 
+### Check out my portfolio [here](https://arushi-katyal.netlify.app/)!
+
 ### Some of my favourite languages and tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
