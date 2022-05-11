@@ -6,7 +6,7 @@
 - ✨ I really enjoy Front End development and focusing on user design!
 - 🤔 Tools that I'd like to explore: TypeScript, Redux, NextJS, TailwindCSS and eventually try out Angular or Vue.
 - 📫 How to reach me: [email me](mailto:katy.arushi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)!
-- Pronouns: she/her
+- Pronouns:  she/her
 
 ### Check out my portfolio [here](https://arushi-katyal.netlify.app/)!
 
