@@ -1,18 +1,19 @@
 ## Hi there 👋 I'm Arushi
 
-- 🇨🇦 I'm a Full Stack Software Developer from Toronto, Canada
-- 🎓 I recently graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
-- 🌱 I’m currently learning more about React, TypeScript, and working on personal projects!
+- 🇨🇦 I'm a Software Engineer from Toronto, Canada
 - ✨ I really enjoy Front End development and focusing on user design!
-- 🤔 Tools that I'd like to explore: TypeScript, Redux, NextJS, TailwindCSS and eventually try out Angular or Vue.
 - 📫 How to reach me: [email me](mailto:katy.arushi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)!
 - Pronouns:  she/her
+<!-- - 🎓 I recently graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp -->
+<!-- - 🌱 I’m currently learning more about React, TypeScript, and working on personal projects! -->
+<!-- - 🤔 Tools that I'd like to explore: TypeScript, Redux, NextJS, TailwindCSS and eventually try out Angular or Vue. -->
+
 
 ### Check out my portfolio [here](https://arushi-katyal.netlify.app/)!
 
-### Some of my favourite languages and tools:
+<!-- ### Some of my favourite languages and tools: -->
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -22,9 +23,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-
-## GitHub Stats
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>  -->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=katy-arushi&show_icons=true&theme=buefy&hide_border=true" alt="Arushi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katy-arushi&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
