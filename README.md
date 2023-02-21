@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Arushi
 
 - 🇨🇦 I'm a Software Engineer from Toronto, Canada
-- ✨ I really enjoy Front End development and focusing on user design!
+- ✨ I really enjoy front-end and mobile development, and focusing on user design!
 - 📫 How to reach me: [email me](mailto:katy.arushi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katyarushi/)!
 - Pronouns:  she/her
 <!-- - 🎓 I recently graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp -->
